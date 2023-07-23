@@ -8,7 +8,7 @@ import Footer from "../shared/Footer/Footer";
 import PaginationComponent from "../Pagination/Pagination";
 function Products() {
   const navigate = useNavigate();
-  const [rangePrice, setrangePrice] = useState([1, 20000]);
+  const [rangePrice, setrangePrice] = useState([1, 60000]);
   function listFun(argu) {
     setrangePrice(argu);
     // console.log(`rangePrice`)
@@ -22,7 +22,7 @@ function Products() {
   useEffect(() => {
     axios
       .get(
-        `https://jumia-clone-api-9qqm.onrender.com/api/team2/products?limit=8&price[lte]=${rangePrice[1]}&price[gte]=${rangePrice[0]}`,
+        `https://ali-service-ey1c.onrender.com/api/team2/products?limit=8&price[lte]=${rangePrice[1]}&price[gte]=${rangePrice[0]}`,
         {
           params: {
             page: page,

@@ -116,7 +116,12 @@ export default function ProductsDetails() {
         getproductDetails();
       })
       .catch((err) => {
-        setErrMessage("you are created a review before");
+        if (localStorage.getItem("UserToken")) {
+          setErrMessage("You created a review before");
+        }
+        else {
+          setErrMessage("You are not registered")
+        }
       });
     // console.log(`res ${res}`)
     console.log(values);

@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/jumia_clone_Iti_project/static/css/main.a7766f07.css",
+    "main.js": "/jumia_clone_Iti_project/static/js/main.d621eb14.js",
+    "static/js/787.893b5488.chunk.js": "/jumia_clone_Iti_project/static/js/787.893b5488.chunk.js",
+    "static/media/fa-solid-900.ttf": "/jumia_clone_Iti_project/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/new.jpg": "/jumia_clone_Iti_project/static/media/new.b761c08d6a9114b4f475.jpg",
+    "static/media/fa-brands-400.ttf": "/jumia_clone_Iti_project/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/jumia_clone_Iti_project/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/6.jpg": "/jumia_clone_Iti_project/static/media/6.0abf25b6c6fb3f389d34.jpg",
+    "static/media/7.jpg": "/jumia_clone_Iti_project/static/media/7.79e16886d4308cff1a9c.jpg",
+    "static/media/8.jpg": "/jumia_clone_Iti_project/static/media/8.d19f3868a6a226b220b9.jpg",
+    "static/media/5.jpg": "/jumia_clone_Iti_project/static/media/5.8260d550b25b1b48823a.jpg",
+    "static/media/fa-brands-400.woff2": "/jumia_clone_Iti_project/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/4.jpg": "/jumia_clone_Iti_project/static/media/4.c4859577c05cf6c9b422.jpg",
+    "static/media/3.jpg": "/jumia_clone_Iti_project/static/media/3.271334f66805bf1c69f8.jpg",
+    "static/media/6.png": "/jumia_clone_Iti_project/static/media/6.57de67446409206ce962.png",
+    "static/media/keep2.png": "/jumia_clone_Iti_project/static/media/keep2.798852e96fd0fc664b94.png",
+    "static/media/4.png": "/jumia_clone_Iti_project/static/media/4.d3671e61e5d46b56c584.png",
+    "static/media/1.png": "/jumia_clone_Iti_project/static/media/1.4a9ffb03b049ffe96dc5.png",
+    "static/media/fa-regular-400.ttf": "/jumia_clone_Iti_project/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/2.png": "/jumia_clone_Iti_project/static/media/2.b7ae3b262c5744be9ac2.png",
+    "static/media/logo.png": "/jumia_clone_Iti_project/static/media/logo.509cffd86f610bc48cb9.png",
+    "static/media/JMIA.png": "/jumia_clone_Iti_project/static/media/JMIA.dc960f9953ec27fa4b25.png",
+    "static/media/3.png": "/jumia_clone_Iti_project/static/media/3.d6b86c51cbe6d70bc04e.png",
+    "static/media/logowihte.png": "/jumia_clone_Iti_project/static/media/logowihte.25a72478587b5150164f.png",
+    "static/media/fa-regular-400.woff2": "/jumia_clone_Iti_project/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/banner.png": "/jumia_clone_Iti_project/static/media/banner.511fc0466abf1b427d4e.png",
+    "static/media/5.png": "/jumia_clone_Iti_project/static/media/5.e9146876d4d9bb450ebd.png",
+    "static/media/fa-v4compatibility.ttf": "/jumia_clone_Iti_project/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/jumia_clone_Iti_project/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/jumia_clone_Iti_project/index.html",
+    "main.a7766f07.css.map": "/jumia_clone_Iti_project/static/css/main.a7766f07.css.map",
+    "main.d621eb14.js.map": "/jumia_clone_Iti_project/static/js/main.d621eb14.js.map",
+    "787.893b5488.chunk.js.map": "/jumia_clone_Iti_project/static/js/787.893b5488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7766f07.css",
+    "static/js/main.d621eb14.js"
+  ]
+}
